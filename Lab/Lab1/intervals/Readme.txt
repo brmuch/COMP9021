@@ -1,0 +1,1 @@
+ Then write a program named intervals.py that prompts the user for a strictly positive integer, nb_of_elements, generates a listofnb_of_elementsrandomintegersbetween0and19,printsoutthelist,computesthenumber of elements strictly less than 5, 10, 15 and 20, and prints those out. 

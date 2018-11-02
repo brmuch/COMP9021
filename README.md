@@ -1,2 +1,1 @@
-# COMP9021
-Python
+# COMP9021 UNSW

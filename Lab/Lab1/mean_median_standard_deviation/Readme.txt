@@ -1,0 +1,1 @@
+Writeaprogramnamedmean_median_standard_deviation.pythatpromptstheuserforastrictly positive integer, nb_of_elements, generates a list of nb_of_elements random integers between 50 and 50, prints out the list, computes the mean, the median and the standard deviation in two ways, that is, using or not the functions from the statistics module, and prints them out.

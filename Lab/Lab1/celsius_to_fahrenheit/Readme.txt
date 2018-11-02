@@ -1,0 +1,1 @@
+Then write a program named celsius_to_fahrenheit.py that displays a conversion table from Celsius degrees to Fahrenheit degrees, with the former ranging from 0 to 100 in steps of 10.
