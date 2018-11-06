@@ -1,4 +1,3 @@
-
 def remove_consecutive_duplicates(word):
     '''
     >>> remove_consecutive_duplicates('')
@@ -18,12 +17,12 @@ def remove_consecutive_duplicates(word):
     '''
     # Insert your code here (the output is returned, not printed out)
     flag = ''
-    print('\'',end='')
+    result = ''
     for i in word:
         if i != flag:
             flag = i
-            print(i, end='')
-    print('\'')
+            result += i
+    return result
 
 if __name__ == '__main__':
     import doctest
