@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "readdata.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "dlliststr.h": "c",
+        "invertedidx.h": "c",
+        "stdio.h": "c"
+    }
+}
